@@ -27,7 +27,7 @@ int main(){
     for(int i = 0; i< q; i++)
     {
         cin >> r >>s;
-        cout<<arr[r][s]<<endl;
+        cout<<arr[r][s];
     }
 
 }
